@@ -1,0 +1,3 @@
+ConfiguracionIDE/
+EvidenciaDeDesarrollo/*.png
+EvidenciaDeDesarrollo/Manual.txt
